@@ -1,0 +1,3 @@
+[submodule "extern/meta"]
+	path = extern/meta
+	url = git@github.com:Nexus-Mods/NexusMods.App.Meta.git
