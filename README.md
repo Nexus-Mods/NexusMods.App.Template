@@ -23,6 +23,7 @@ The following is a checklist of things you need to do after creating a new repos
         - `Require a pull request` before merging with **1** required approvals
         - `Require status checks to pass before merging`
         - `Block force pushes`
+   5) `Settings` -> `Pages` and change `Source` to **GitHub Actions**
 2) Rename the Solution and existing Projects
 3) Update the docs:
     1) Open [`mkdocs.yml`](./mkdocs.yml) and update the first four fields:
