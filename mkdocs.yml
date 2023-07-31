@@ -1,8 +1,8 @@
-site_name: Nexus Mods Hashing xxHash64
-site_url: https://nexus-mods.github.io/NexusMods.Hashing.xxHash64
+site_name: Nexus Mods App Template
+site_url: https://nexus-mods.github.io/NexusMods.App.Template
 
-repo_name: Nexus-Mods/NexusMods.Hashing.xxHash64
-repo_url: https://github.com/Nexus-Mods/NexusMods.Hashing.xxHash64
+repo_name: Nexus-Mods/NexusMods.App.Template
+repo_url: https://github.com/Nexus-Mods/NexusMods.App.Template
 
 extra:
   social:
